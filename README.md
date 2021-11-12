@@ -1,6 +1,8 @@
 # Ryguy2k4's Portal Practice Map
 I was recently trying to learn some new strats to get back into speedrunning again, and I wasn't happy with the quality of existing portal practice maps, so I decided to create my own. Includes two modes: practice one specific portal or practice random portals of your choosing. You can easily reset at any time by simply dropping your flint and steel. This map will keep track of your personal bests for each portal as well. I will likely come back to add more features to this map such as lava pool portals, cave portals, ruined portals, etc. Bug reports and feature requests are always appreciated! Contact me at ryguy2k4#9371
 
+If at any point you want to reset all your personal bests, use the following command: /function portal-practice:timer/reset_personal_records
+
 [Downlaod Here](https://github.com/ryguy2k4/ryguy2k4portalpractice/releases/download/v1.0.0/Ryguy2k4_Portal_Practice_v1.0.0.zip)
 
 ### Thanks for checking this out! While your here I might as well self-promo...
